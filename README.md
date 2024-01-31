@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Abhinav Singh</h1>
 <h3 align="center">A passionate Computer Science engineering student from India</h3>
 
-- 🔭 I’m currently working on **Computer Vision and MLOps**
+- 🔭 I’m currently working on **DSA and Computer Vision**
 
 - 🌱 I’m currently learning **DSA, Machine Learning, Deep Learning, Computer Vision, MLOps**
 
