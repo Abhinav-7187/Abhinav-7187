@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Abhinav Singh</h1>
 <h3 align="center">A passionate Computer Science engineering student from India</h3>
 
-- 🔭 I’m currently working on **DSA and Computer Vision**
+- 🔭 I’m currently working on **DSA and NLP**
 
-- 🌱 I’m currently learning **DSA, Machine Learning, Deep Learning, Computer Vision, MLOps**
+- 🌱 I’m currently learning **DSA, Deep Learning, Natural language processing, MLOps**
 
 - 💬 Ask me about **Machine learning and Data Science**
 
