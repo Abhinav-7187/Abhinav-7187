@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **DSA and NLP**
 
-- 🌱 I’m currently learning **DSA, Deep Learning, Natural language processing, MLOps**
+- 🌱 I’m currently learning **DSA, NLP, LLM, and MLOps**
 
 - 💬 Ask me about **Machine learning and Data Science**
 
